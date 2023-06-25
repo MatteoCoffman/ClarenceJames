@@ -5,11 +5,13 @@ import Listen from "./pages/Listen";
 import Shows from "./pages/Shows";
 import Shop from "./pages/Shop";
 import Navbar from "./components/Navbar";
+import "./App.css";
 
 function App() {
   return (
     <Router>
       <div>
+        <h1 className="name">Clarence James</h1>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
