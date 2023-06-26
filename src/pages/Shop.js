@@ -1,7 +1,7 @@
 export default function Shop() {
   return (
     <div>
-      <h1>Shop</h1>
+      <h1>Coming soon...</h1>
     </div>
   );
 }
