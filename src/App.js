@@ -6,12 +6,18 @@ import Shows from "./pages/Shows";
 import Shop from "./pages/Shop";
 import Navbar from "./components/Navbar";
 import "./App.css";
+import Socials from "./components/Socials";
 
 function App() {
   return (
     <Router>
-      <div>
+      <div className="header">
         <h1 className="name">Clarence James</h1>
+        <div className="socials">
+          <Socials />
+        </div>
+      </div>
+      <div>
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
