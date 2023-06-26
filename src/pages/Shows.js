@@ -1,7 +1,7 @@
 export default function Shows() {
   return (
     <div>
-      <h1>Shows</h1>
+      <h1>No Shows Right Now :(</h1>
     </div>
   );
 }

@@ -3,6 +3,7 @@ export default function Player({ Uri, type }) {
     <div>
       <iframe
         src={`https://open.spotify.com/embed/${type}/${Uri}`}
+        title="Spotify Player"
         width={300}
         height={380}
         frameBorder="0"

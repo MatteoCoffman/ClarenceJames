@@ -6,8 +6,24 @@ export default function Listen() {
 
   const tracks = [
     {
+      uri: "2qZGBVIT6R0lBL1E9DkfqM?si=85394b6191864ace",
+      title: "I'm Melting",
+    },
+    {
       uri: "03bnnlRI981SeYlaSPsYTp?si=8b9db6040f074c09",
       title: "I Think It Might Be Hell",
+    },
+    {
+      uri: "2Xk3MunfpZwHSJktWNhRbz?si=1aaf7b6928204556",
+      title: "Ronson Princess",
+    },
+    {
+      uri: "7tAtJdUiYzjlZL6dOiNBRz?si=f2e9528ce92a431a",
+      title: "Wait",
+    },
+    {
+      uri: "0Z5zWMYRjcRmxWFPWKeTBj?si=dc6c8db362e7461c",
+      title: "DeadFish",
     },
   ];
 
