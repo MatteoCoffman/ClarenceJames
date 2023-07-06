@@ -12,7 +12,7 @@ function App() {
   return (
     <Router>
       <div className="header">
-        <h1 className="name">Clarence James</h1>
+        <h1 className="name">Clarence Jamessss</h1>
         <div className="socials">
           <Socials />
         </div>
