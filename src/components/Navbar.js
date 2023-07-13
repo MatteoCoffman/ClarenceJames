@@ -14,7 +14,7 @@ function Navbar() {
       <ul>
         <li>
           <Link
-            to="/"
+            to="/ClarenceJames"
             onClick={handleLinkClick}
             className={activeLink === "Home" ? "active" : ""}
           >
