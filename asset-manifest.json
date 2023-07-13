@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClarenceJames/static/css/main.08cd0c19.css",
+    "main.js": "/ClarenceJames/static/js/main.fcdaa212.js",
+    "index.html": "/ClarenceJames/index.html",
+    "main.08cd0c19.css.map": "/ClarenceJames/static/css/main.08cd0c19.css.map",
+    "main.fcdaa212.js.map": "/ClarenceJames/static/js/main.fcdaa212.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08cd0c19.css",
+    "static/js/main.fcdaa212.js"
+  ]
+}
